@@ -1,3 +1,5 @@
 title: Strategic Partnerships
 description: Documentation for the Strategic Partnerships family in Portfolio Value Stream.
 remote_theme: just-the-docs/just-the-docs
+
+theme: jekyll-theme-slate
